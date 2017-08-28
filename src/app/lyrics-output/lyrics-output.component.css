@@ -1,0 +1,10 @@
+.lyric-output-container {
+	width: 85%;
+	margin: auto;
+}
+
+.lyric-line {
+	font-size: 1.5em;
+	font-family: Roboto, Arial, sans-serif;
+	background-color: rgb(240,240,240);
+}

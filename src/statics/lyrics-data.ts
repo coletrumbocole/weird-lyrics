@@ -1,0 +1,28 @@
+export class LyricsData {
+	static LYRICS = [
+		"Quiero prometerte que voy a salir de una vez si es que las lagartijas vengan a mi cabeza.",
+		"Mi mes no se interrumpe con esas cosas.",
+		"Its the best time to catch a movie, at the movies.",
+		"The lyrics of the gods during winters calm night.",
+		"Men are that they shall be freee.",
+		"Shorts shorts I wear your shorts.",
+		"Smells of the manuscpts and ashes covering the empty space where the curse was found.",
+		"night time only lasted long enough to make it worth your trouble.",
+		"Blunders blunders",
+		"Nothing to say, always ok",
+		"Steps to the place you like to swim at night.",
+		"beaming like the ship mast or the laser I don\'t know, who even cares",
+		"blue blue blue bluuuuuuueeeeeeee",
+		"Change the current settings of my pocketwatch microsensor to fit the phases of the pulses in my brain",
+		"kill it ",
+		"roller roller bounce bounce",
+		"More places to see from Cebu City!",
+		"scoooter boy gonna ride that scooter at your fairy party fatty mc poops a lot?",
+		"when you can\'t give a drip of sweet sweeet nothing no more, just pat my head and tell me your story, tell me the story of the time you held the hand of the man of your dreams, and how you wrote a love song, and it goes on, And you don\'t have a drip of sweet sweet nothing no more.",
+		"run forrest run",
+		"run samson run",
+		"gimme gimme more",
+		"I can do a pop shove it. I can do a pop shove it well.",
+		"children behaaaa-A-uh-A-uh-Ave",
+	];
+}
