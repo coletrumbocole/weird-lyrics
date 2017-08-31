@@ -1,0 +1,27 @@
+.lyric-output-container {
+	width: 85%;
+	margin: auto;
+	background-color: rgb(235,235,235);
+
+	.lyric-line {
+		font-size: 1.5em;
+		font-family: Roboto, Arial, sans-serif;
+		border-bottom: 1px solid blue;
+
+/*		.page-margin-before-red {
+			width: 100px;
+			padding: 0 5px;
+			border-right: 1px solid red;
+		}*/
+
+		.line-after-red {
+			padding: 0 5px;
+		}
+
+	}
+
+}
+
+div {
+	color: purple;
+}
